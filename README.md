@@ -1,4 +1,4 @@
 # jane
 about my certificate
 I DONT KNOW WHAT I DO!
-git.config--global username"jane"
+git.config--local username"jane zontos"
